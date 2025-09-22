@@ -1,9 +1,9 @@
 const cacheName = "Obese Cow Productions-mur-derby-0.1";
 const contentToCache = [
     "Build/build.loader.js",
-    "Build/build.framework.js.gz",
-    "Build/build.data.gz",
-    "Build/build.wasm.gz",
+    "Build/build.framework.js",
+    "Build/build.data",
+    "Build/build.wasm",
     "TemplateData/style.css"
 
 ];
